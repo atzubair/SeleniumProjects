@@ -1,0 +1,4 @@
+22:57:25.667 [TestNG-tests-1] ERROR Resources.Base - Site could not be found
+22:57:31.616 [TestNG-tests-1] INFO  Resources.Base - Pop up window is closed
+22:57:31.747 [TestNG-tests-1] INFO  Resources.Base - The navigation bar is dispalyed
+22:57:31.747 [TestNG-tests-1] ERROR Resources.Base - The navigation bar is not visible

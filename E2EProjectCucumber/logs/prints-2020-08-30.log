@@ -1,0 +1,6 @@
+22:57:07.618 [TestNG-tests-1] INFO  Resources.Base - Pop up window is closed
+22:57:07.694 [TestNG-tests-1] INFO  Resources.Base - The title matched with the expected result
+22:57:07.695 [TestNG-tests-1] ERROR Resources.Base - Title did not match with expected result
+22:57:16.529 [TestNG-tests-1] INFO  Resources.Base - Browser strated successfully
+22:57:16.530 [TestNG-tests-1] ERROR Resources.Base - Browser could not be started
+22:57:25.667 [TestNG-tests-1] INFO  Resources.Base - site intiatated
