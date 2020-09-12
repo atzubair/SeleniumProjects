@@ -45,6 +45,7 @@ public class HomePageNavigationBarValidationTest extends Base{
 		Assert.assertTrue(hp.navBar().isDisplayed());// we are checking if the whole navigation bar at the top right are displayed(active) or not
 		log.info("The navigation bar is dispalyed");
 		log.error("The navigation bar is not visible");
+		System.out.println("Evrything guthub went well");
 	
 	
 	}
