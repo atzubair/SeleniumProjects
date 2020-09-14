@@ -46,7 +46,7 @@ public class HomePageNavigationBarValidationTest extends Base{
 		log.info("The navigation bar is dispalyed");
 		log.error("The navigation bar is not visible");
 		System.out.println("Evrything in github went well");
-	
+		System.out.println("this has been pushed from gitstuff");
 	
 	}
 	
