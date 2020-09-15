@@ -48,6 +48,7 @@ public class HomePageNavigationBarValidationTest extends Base{
 		System.out.println("Evrything in github went well");
 		System.out.println("this has been pushed from gitstuff");
 		System.out.println("it's now in a new branch");
+		System.out.println("The team member is in branch");
 	
 	}
 	

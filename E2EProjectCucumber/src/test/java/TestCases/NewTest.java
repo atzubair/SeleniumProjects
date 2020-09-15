@@ -31,6 +31,7 @@ public class NewTest extends Base{
 	public void branchTest() {
 		
 		System.out.println("Thisis to be filled out by other member");
+		System.out.println("The team member has done the necessary changes");
 	}
 
 }
