@@ -32,6 +32,7 @@ public class NewTest extends Base{
 		
 		System.out.println("Thisis to be filled out by other member");
 		System.out.println("The team member has done the necessary changes");
+		System.out.println("Well done");
 	}
 
 }
